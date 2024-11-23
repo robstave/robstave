@@ -10,8 +10,9 @@
 
 <div align="left">
 
-![Languages:Go, JS/TS](https://img.shields.io/static/v1?label=Languages&message=Go%20C-Arduino%20Java&color=blue)
- 
+![Languages:Go, JS/TS](https://img.shields.io/static/v1?label=Languages&message=Go%20C-Arduino%20Java&color=blue) 
+
+
 
 # About Me
 
@@ -25,7 +26,7 @@ Collection of sketches for ATTiny to replace logic blocks in lunetta like circui
 
 I really like to make things blink and go beep.  A LOT of sketches that do that.  Mostly for ATTINY85 but a few other chips are supported.  Its arduino code, so most sketches can be refactored pretty easily.
 
-![Language:C](https://img.shields.io/static/v1?label=Language&message=C-Arduino&color=blue)
+![Language:C](https://img.shields.io/static/v1?label=Language&message=C-Arduino&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/arduinocomponentsketches)
 
 
 # Learning projects
