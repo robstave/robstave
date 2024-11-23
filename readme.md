@@ -36,7 +36,7 @@ These are more exercises and learning things.
 
  
 
-<img src="https://github.com/robstave/d3-mitre-ai-experiment/raw/main/12-palette/radar12a.png" align="right"
+<img src="https://github.com/robstave/d3-mitre-ai-experiment/raw/main/12-palette/radar12a.png"  
      alt="Size Limit logo by Anton Lovchikov"   height="250">
 
 
@@ -53,7 +53,7 @@ An attempt to see just how little code I could write with chatGPT.  I had it bui
 
 
 
-<img src="https://raw.githubusercontent.com/robstave/rto/main/docs/cal2.png" align="right"
+<img src="https://raw.githubusercontent.com/robstave/rto/main/docs/cal2.png"  
      alt="Size Limit logo by Anton Lovchikov"   height="250">
 
 
