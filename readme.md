@@ -1,19 +1,24 @@
 <div align="center">
 
-# Rob the fiddler
+# Rob The Fiddler
 
 <p align="center">
-  <img src="d8.png" alt="Updo demo" width="300"/>
+  <img src="d8.png" alt="Updo demo" width="200"/>
 </p>
-
-# Rob the fiddler
 
 <div align="left">
 
-![Languages:Go, JS/TS](https://img.shields.io/static/v1?label=Languages&message=Go%20C-Arduino%20Java&color=blue)
- 
+![Languages:Go, JS/TS, Java](https://img.shields.io/static/v1?label=Languages&message=Go%20C-Arduino%20Java&color=blue)
 
 # About Me
+
+- Software Developer/Team Lead
+- Fiddler ( Texas Country Music )
+- Sound Tinkerer ( Arduino, Modular Synths, ATTINY85 )
+- Golang/JS/TS/Java and whatever Arduino is...C++ ???
+- If AI gives a solution in Python...well...sure.  Python
+
+Would like to get more Haskell/Rust under my belt.  Honestly, for what I do, the language is not as important as the libraries/support.
 
 # Featured Projects
 
@@ -21,7 +26,7 @@
 
 [ACS](https://github.com/robstave/ArduinoComponentSketches)
 
-Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever.
+Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever. They can be stand alone diversions or the core for a modular synth component.  Keep in mind, its an 8 bit microcontroller though.
 
 I really like to make things blink and go beep.  A LOT of sketches that do that.  Mostly for ATTINY85 but a few other chips are supported.  Its arduino code, so most sketches can be refactored pretty easily.
 
@@ -34,11 +39,8 @@ These are more exercises and learning things.
 
 ## D3 mitre attack widget
 
- 
-
 <img src="https://github.com/robstave/d3-mitre-ai-experiment/raw/main/12-palette/radar12a.png"  
      alt="Size Limit logo by Anton Lovchikov"   height="250">
-
 
 [D3 Mitre exercise](https://github.com/robstave/d3-mitre-ai-experiment)
 
