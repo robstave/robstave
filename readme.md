@@ -20,6 +20,25 @@ Would like to get more Haskell/Rust under my belt. Honestly, for what I do, the 
 
 # Featured Projects
 
+## Meowmorize
+
+
+
+<img src="https://github.com/robstave/meowmorize/raw/main/assets/meow.png"  width="100"
+      >
+
+[Meowmorize](https://github.com/robstave/meowmorize)
+
+A Golang/React flashcard app.
+Dockerized - so why not just give it a spin!
+
+
+
+<img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100"
+      >
+
+![Language:Go, JS/TS, react](https://img.shields.io/static/v1?label=Language&message=Go,JS,React&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/meowmorize)
+
 ## Arduino Component Sketches
 
 [ACS](https://github.com/robstave/ArduinoComponentSketches)
