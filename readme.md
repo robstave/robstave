@@ -20,25 +20,6 @@ Would like to get more Haskell/Rust under my belt. Honestly, for what I do, the 
 
 # Featured Projects
 
-## Meowmorize
-
-
-
-<img src="https://github.com/robstave/meowmorize/raw/main/assets/meow.png"  width="100"
-      >
-
-[Meowmorize](https://github.com/robstave/meowmorize)
-
-A Golang/React flashcard app.
-Dockerized - so why not just give it a spin!
-
-
-
-<img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100"
-      >
-
-![Language:Go, JS/TS, react](https://img.shields.io/static/v1?label=Language&message=Go,JS,React&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/meowmorize)
-
 ## Arduino Component Sketches
 
 [ACS](https://github.com/robstave/ArduinoComponentSketches)
@@ -48,6 +29,23 @@ Collection of sketches for ATTiny to replace logic blocks in lunetta like circui
 I really like to make things blink and go beep. A LOT of sketches that do that. Mostly for ATTINY85 but a few other chips are supported. Its arduino code, so most sketches can be refactored pretty easily.
 
 ![Language:C](https://img.shields.io/static/v1?label=Language&message=C-Arduino&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/arduinocomponentsketches)
+
+
+
+## Meowmorize
+
+<img src="https://github.com/robstave/meowmorize/raw/main/assets/meow.png"  width="100" >
+
+[Meowmorize](https://github.com/robstave/meowmorize)
+
+A Golang/React flashcard app.
+Dockerized - so why not just give it a spin!
+
+<img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100"
+      >
+
+![Language:Go, JS/TS, react](https://img.shields.io/static/v1?label=Language&message=Go,JS,React&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/meowmorize)
+
 
 ## ATTINY85 Latex Builder
 
