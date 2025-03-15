@@ -11,7 +11,7 @@
 # About Me
 
 - Software Developer/Team Lead
-- Fiddler ( Texas Country Music )
+- Fiddler - Texas Country Music
 - Sound Tinkerer ( Arduino, Modular Synths, ATTINY85 )
 - Golang/JS/TS/Java and whatever Arduino is...C++ ???
 - If AI gives a solution in Python...well...sure. Python
@@ -38,7 +38,11 @@ I really like to make things blink and go beep. A LOT of sketches that do that. 
 
 [Meowmorize](https://github.com/robstave/meowmorize)
 
-A Golang/React flashcard app.
+A Golang/React based flashcard app.
+ - Import format compatible with Chats so you can just ask it to create cards in markdown and import.
+ - Progress stats
+ - Cards are markdown, code formating supported
+ 
 Dockerized - so why not just give it a spin!
 
 <img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100"
