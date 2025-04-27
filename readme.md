@@ -10,13 +10,13 @@
 
 # About Me
 
-- Software Developer/Team Lead
+- Senior Software Engineer/Team Lead
 - Fiddler - Texas Country Music
-- Sound Tinkerer ( Arduino, Modular Synths, ATTINY85 )
-- Golang/JS/TS/Java and whatever Arduino is...C++ ???
-- If AI gives a solution in Python...well...sure. Python
+- Sound Tinkerer (Arduino, Modular Synths, ATTINY85)
+- Golang/Javascript/Typescript/Java and whatever Arduino is...C++???
+- If AI gives me a solution in Python...well, sure, I can roll with that too.
 
-Would like to get more Haskell/Rust under my belt. Honestly, for what I do, the language is not as important as the libraries/support.
+I’d like to dive deeper into Haskell and Rust. Honestly, though, for what I do, the language isn’t as important as the libraries and support.
 
 # Featured Projects
 
@@ -24,13 +24,13 @@ Would like to get more Haskell/Rust under my belt. Honestly, for what I do, the 
 
 [ACS](https://github.com/robstave/ArduinoComponentSketches)
 
-Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever. They can be stand alone diversions or the core for a modular synth component. Keep in mind, its an 8 bit microcontroller though.
+A collection of sketches for ATTiny to replace logic blocks in Lunetta-like circuits or whatever else comes to mind. They can be standalone diversions or the core for a modular synth component. Keep in mind, it’s an 8-bit microcontroller.
 
-I really like to make things blink and go beep. A LOT of sketches that do that. Mostly for ATTINY85 but a few other chips are supported. Its arduino code, so most sketches can be refactored pretty easily.
+I really like making things blink and go beep. There are *a lot* of sketches that do just that. Mostly for ATTINY85, but a few other chips are supported. It’s Arduino code, so most sketches can be refactored pretty easily.
 
 ![Language:C](https://img.shields.io/static/v1?label=Language&message=C-Arduino&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/arduinocomponentsketches)
 
-
+---
 
 ## Meowmorize
 
@@ -38,53 +38,51 @@ I really like to make things blink and go beep. A LOT of sketches that do that. 
 
 [Meowmorize](https://github.com/robstave/meowmorize)
 
-A Golang/React based flashcard app.
- - Import format compatible with Chats so you can just ask it to create cards in markdown and import.
- - Progress stats
- - Cards are markdown, code formating supported
- 
-Dockerized - so why not just give it a spin!
+A Golang/React-based flashcard app.  
+- Import format compatible with ChatGPT, so you can just ask it to create cards in markdown and import them.  
+- Progress stats.  
+- Cards are written in markdown, with code formatting supported.  
 
-<img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100"
-      >
+It’s Dockerized—so why not give it a spin?
+
+<img src="https://github.com/robstave/meowmorize/raw/main/assets/cat2.png"  width="100">
 
 ![Language:Go, JS/TS, react](https://img.shields.io/static/v1?label=Language&message=Go,JS,React&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/meowmorize)
 
+---
 
 ## ATTINY85 Latex Builder
 
-[Latex builder](https://github.com/robstave/attiny85-latex)
+[Latex Builder](https://github.com/robstave/attiny85-latex)
 
-Create cool Latex ATTINY85 Pinouts from json files. The intent was to automate the images that I use in the above repo. I got the tool working. But remaking all the images still is a chore that will take some time to get around too doing.
+Create cool Latex ATTINY85 pinouts from JSON files. The idea was to automate the images I use in the Arduino repo above. The tool works, but remaking all the images is still a chore I haven’t gotten around to yet.
 
-<img src="https://github.com/robstave/attiny85-latex/raw/main/assets/cowbell.png"  
-      >
+<img src="https://github.com/robstave/attiny85-latex/raw/main/assets/cowbell.png">
 
 ![Language:C](https://img.shields.io/static/v1?label=Language&message=Go&color=blue) ![Languages:Go, JS/TS](https://img.shields.io/github/stars/robstave/attiny85-latex)
 
-# Other Smaller Learning projects
+---
 
-These are more just exercises and trivial pursuits.
+# Other Smaller Learning Projects
 
-## D3 mitre attack widget
+These are more just exercises and fun experiments.
+
+## D3 Mitre Attack Widget
 
 <img src="https://github.com/robstave/d3-mitre-ai-experiment/raw/main/12-palette/radar12a.png"  
-     alt="Size Limit logo by Anton Lovchikov"   height="250">
+     alt="D3 Mitre Attack Widget" height="250">
 
-[D3 Mitre exercise](https://github.com/robstave/d3-mitre-ai-experiment)
+[D3 Mitre Exercise](https://github.com/robstave/d3-mitre-ai-experiment)
 
-An attempt to see just how little code I actually needed to write using ChatGPT. Turns out...practically none!
-
-I had it build a D3 widget interatively without manually changing any code. Just a conversation ( and a little copy/paste into JS fiddle )
+An experiment to see how little code I actually needed to write using ChatGPT. Turns out...practically none! I had it build a D3 widget interactively without manually changing any code—just a conversation (and a little copy/paste into JSFiddle).
 
 ![Language:js](https://img.shields.io/static/v1?label=Language&message=JS&color=blue)
 
-<br>
-<br>
+---
 
 ## RTO
 
-<img src="https://raw.githubusercontent.com/robstave/rto/main/docs/cal2.png"  alt="Size Limit logo by Anton Lovchikov"   height="250">
+<img src="https://raw.githubusercontent.com/robstave/rto/main/docs/cal2.png"  alt="RTO Calculator" height="250">
 
 [Return to Office Calculator](https://github.com/robstave/rto)
 
